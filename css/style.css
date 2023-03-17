@@ -11,9 +11,9 @@ html, body {
 }
 
 .header {
-    background: url(bg/fon.jpg) 0 0 / 100% 100%no-repeat;
+    background-image: url(../bg/fon.jpg) 0 0 / 100% 100%no-repeat;
     margin-bottom: 193px;
-    height: 100vh;
+    height: 100%;
 }
 
 .conteiner {
